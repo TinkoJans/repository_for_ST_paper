@@ -1,0 +1,15 @@
+Phaseolus leaf sown:04-03
+Measured: 19-03-2026
+Settings:
+Ml int: 6, 18uE
+Act Red: 3, 28uE
+Fr: 3, 
+Sequence
+Dark adaptation: 5 mins
+F0, Fm (0:40)
+Actinic Red: 15 minutes (ends 15:40)
+Flash every 2 mins
+FR added: 14 mins (ends 29:40)
+Flash every 2 mins
+FR removed: 14 mins (ends 43:50)
+After 43:50 data cannot be trusted. FR turned itself of after switching on.

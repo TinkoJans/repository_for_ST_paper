@@ -1,0 +1,14 @@
+Phaseolus leaf sown:04-03
+Measured 19-03-2026
+Settings:
+F-ML 20,
+
+Sequence:
+Fm: 0:10
+15 mins wit+FR (0:30-15:30)
+Every 2 mins SP: (1:00- end)
+15 mins wit
+15 mins wit+FR
+15 mins wit
+Wit+fr is 1.5/10
+Wit is 1.9/0
