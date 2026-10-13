@@ -43,6 +43,9 @@ bayesian fit_taylor data runs the analysis of the Taylor 2019 data.
 pop_analysis_for_paper takes all the sampled pickles and combines them together to create the figures of all the leaves combined. 
 theoretical model analysis finally makes the scenario figures. 
 
+4.
+Later another version of the model was made using mxlpy. This version is an ODE version and can thus run faster and easier than the simulation version used for the paper. If you want to use the model for your own purposes I would start with this version. It can easily be used after installing the mxlpy package (https://cpbl.rwth-aachen.de/MxlPy/latest/index.html). This is not integrated with bayesian analysis in the script, but does allow for easy and quick model running. Another change is that Ci is constant in the mxlpy version, whereas Ci is changed (from the measured value) at each 5 second time interval. So, depending on your application you can use either version, but I would recommend starting with teh mxlpy version as it is much easier to understand. (And i am still learning how to organise my code, so the mxlpy version is also much more organised ;).
+
 
 
 
